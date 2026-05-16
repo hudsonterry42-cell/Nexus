@@ -1,0 +1,11 @@
+{
+  "name": "nexus",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
